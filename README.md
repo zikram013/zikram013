@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
 **Marcos Sánchez**  
-*Ingeniero de Software | Desarrollador Experto en .NET | Backend Software Engineer*
+*Ingeniero de Software | Desarrollador Backend especializado en .NET, JavaScript, Java y Python*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/marcos-sanchez-hernandez)
 
@@ -9,15 +9,41 @@
 
 ### 🧑‍💻 Sobre mí
 
-Soy un apasionado ingeniero de software con sede en Tres Cantos, Comunidad de Madrid. Mi experiencia se centra en el desarrollo backend utilizando tecnologías .NET. Siempre busco la excelencia y no temo enfrentar nuevos desafíos, resolviendo problemas complejos con código eficiente y limpio.
+Soy un apasionado ingeniero de software con sede en Tres Cantos, Comunidad de Madrid. Cuento con una sólida experiencia desarrollando soluciones backend robustas en entornos empresariales, principalmente utilizando tecnologías .NET.
 
-- 🎯 **Experiencia Profesional**: Backend Developer en IMMEDIA.
-- 🎓 **Educación**: Ingeniería del Software (TFG con Unity + Realidad Aumentada).
-- 🚀 **Proyectos Destacados**:
-  - [MasterAspNet7](https://github.com/zikram013/MasterAspNet7) – Curso completo en C#/.NET 7
-  - [TFG](https://github.com/zikram013/TFG) – App AR con Unity para TFG
-- 💼 **Stack principal**: .NET, C#, SQL, JavaScript, Java, Python (programación competitiva)
-- 🎮 **Hobbies**: Videojuegos, tecnología y creación de experiencias interactivas.
+---
+
+### 🏢 Experiencia Profesional Destacada
+
+- 🔧 **Backend Software Engineer – Immedia** (Actualidad)  
+  Desarrollo del proyecto ECOS6 para la ESA (European Space Agency)  
+  `.NET Core`, `.NET Framework`
+
+- 🎯 **Jefe de Proyecto / .NET Senior Developer – UNIR**  
+  Gestión de tribunales, microservicios y banco de exámenes (App GEXAM)  
+  `.NET Core`, RabbitMQ, liderazgo de equipos
+
+- 🌐 **Application Developer – Fujitsu**  
+  Proyecto de Aduanas del Ministerio de Industria, Comercio y Turismo  
+  `.NET Core`, `.NET Framework`
+
+- 🧪 **Programador Junior – TÜV**  
+  Desarrollo de APIs con `ASP.NET Core` y C#
+
+---
+
+### 📜 Certificaciones Técnicas
+
+- **Master en ASP.NET 7 MVC – Udemy**  
+- **ASP.NET Core & Angular en Kubernetes – Google Cloud Platform**  
+- **DevOps con Docker, Jenkins, GitFlow CI/CD – Udemy**  
+- **Scrum Técnico – OpenWebinars**  
+- **Gestión de Proyectos (ITIL y PM en Español)**  
+- **Curso de JavaScript Profesional & Angular 11 – OpenWebinars**  
+- **Test de Aptitud .NET Core – OpenWebinars**  
+  > Nivel obtenido: **A2 (Advance)**
+
+> *Además, cuento con certificación en inglés TOEIC (B1).*
 
 ---
 
@@ -47,6 +73,9 @@ Soy un apasionado ingeniero de software con sede en Tres Cantos, Comunidad de Ma
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
